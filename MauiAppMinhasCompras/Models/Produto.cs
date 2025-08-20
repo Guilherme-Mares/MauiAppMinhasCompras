@@ -12,3 +12,4 @@ namespace MauiAppMinhasCompras.Models
 
     }
 }
+    

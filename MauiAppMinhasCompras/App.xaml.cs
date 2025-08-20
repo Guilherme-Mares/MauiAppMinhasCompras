@@ -23,7 +23,7 @@ public partial class App : Application
             return _db;
         }
     
-    }
+    } 
     public App()
     {
         InitializeComponent();
